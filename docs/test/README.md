@@ -4,66 +4,66 @@
 
 ## Запуск сервера
 
-![img.png](media/start.png)
+<img src="./media/start.png">
 
 ## POST api/user
 
-![img.png](media/post-user.png)
+<img src="./media/post-user.png">
 
 ## GET api/user
 
-![img.png](media/get-users.png)
+<img src="./media/get-users.png">
 
 ## GET api/user/:id
 
-![img.png](media/get-user.png)
+<img src="./media/get-user.png">
 
 ## PATCH api/user/:id
 
-![img.png](media/patch-user.png)
+<img src="./media/patch-user.png">
 
 ## DELETE api/user/:id
 
-![img.png](media/delete-user.png)
+<img src="./media/delete-user.png">
 
 ## POST api/content
 
-![img.png](media/post-content.png)
+<img src="./media/post-content.png">
 
 ## GET api/content
 
-![img.png](media/get-contents.png)
+<img src="./media/get-contents.png">
 
 ## GET api/content/:id
 
-![img.png](media/get-content.png)
+<img src="./media/get-content.png">
 
 ## PATCH api/content/:id
 
-![img.png](media/patch-content.png)
+<img src="./media/patch-content.png">
 
 ## DELETE api/content/:id
 
-![img.png](media/delete-content.png)
+<img src="./media/delete-content.png">
 
 ___
 
 ## EXCEPTION(User): DataMissingException
 
-![img.png](media/user-DataMissingException.png)
+<img src="./media/user-DataMissingException.png">
 
 ## EXCEPTION(User): AlreadyRegisteredException
 
-![img.png](media/user-AlreadyRegisteredException.png)
+<img src="./media/user-AlreadyRegisteredException.png">
 
 ## EXCEPTION(User): UserNotFoundException
 
-![img.png](media/user-UserNotFoundException.png)
+<img src="./media/user-UserNotFoundException.png">
 
 ## EXCEPTION(MediaContent): RequiredFieldsMissingException
 
-![img.png](media/content-RequiredFieldsMissingException.png)
+<img src="./media/content-RequiredFieldsMissingException.png">
 
 ## EXCEPTION(MediaContent): MediaContentNotFoundException
 
-![img.png](media/content-MediaContentNotFoundException.png)
+<img src="./media/content-MediaContentNotFoundException.png">
